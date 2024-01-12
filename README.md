@@ -12,6 +12,7 @@ It looks a bit ***empty*** at the moment but as they say, all good things take t
 #### Things I am Learning!
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://github.com/Cold-Coffee-Coder/Cold-Coffee-Coder/blob/main/c.png?raw=true)
 
 <hr size="2" noshade="0">
 
