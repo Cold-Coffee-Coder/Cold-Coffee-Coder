@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/workingpandas" target="blank"><img src="https://img.shields.io/twitter/follow/workingpandas?logo=twitter&style=for-the-badge" alt="workingpandas" /></a> </p>
 
-- 🌱 I’m currently learning **C, JavaScript and Flutter**
-
-- 📫 How to reach me **coldcoffeecoder@gmail.com**
-
-- ⚡ Fun fact **I do Calisthenics.**
+this is my personal Junkyard
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
