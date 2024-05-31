@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Bharti</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cold-coffee-coder&label=Profile%20views&color=0e75b6&style=flat" alt="cold-coffee-coder" /> </p>
+# Hi, I'm Aditya Bharti
 
-<p align="left"> <a href="https://twitter.com/workingpandas" target="blank"><img src="https://img.shields.io/twitter/follow/workingpandas?logo=twitter&style=for-the-badge" alt="workingpandas" /></a> </p>
-
-this is my personal Junkyard
+### this is my personal Junkyard
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
